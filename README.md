@@ -1,1 +1,2 @@
-TicTacToe simulator (PvE).
+# TicTacToe simulator
+Player vs. AI.  
